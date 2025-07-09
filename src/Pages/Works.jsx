@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import img from "../assets/works/samar1.png";
-import lunaImage from "../assets/works/Luna.png";
-import lunaImage2 from "../assets/works/Luna2.png";
-import lunaImage3 from "../assets/works/Luna3.png";
+import lunaImage from "../assets/works/luna.png";
+import lunaImage2 from "../assets/works/luna2.png";
+import lunaImage3 from "../assets/works/luna3.png";
 import gomezImage from "../assets/works/gomez.png";
 import gomezImage2 from "../assets/works/gomez2.png";
 import gomezImage3 from "../assets/works/gomez3.png";
