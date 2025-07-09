@@ -54,7 +54,7 @@ const Hero1 = () => {
               key={index}
               src={img}
               alt={`Project Illustration ${index + 1}`}
-              className={`w-full sm:w-1/2 md:w-1/4 xl:w-[20rem] h-auto ${leftAndRight} -m-2 transform ${positionClass}`}
+              className={`w-full sm:w-1/2 md:w-1/4 xl:w-[19rem] h-auto ${leftAndRight} -m-2 transform ${positionClass}`}
             />
           );
         })}
