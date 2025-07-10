@@ -6,7 +6,7 @@ const Hero1 = () => {
   return (
     <section
       id="home"
-      className="relative p-10 min-h-screen w-full flex flex-col justify-center items-center gap-10 overflow-hidden"
+      className="relative mt-40 p-10 min-h-screen w-full flex flex-col justify-center items-center gap-10 overflow-hidden"
     >
       {/* Text Section */}
       <div className="text-center max-w-xl animate-fade-in-left">
